@@ -1,0 +1,19 @@
+# File di sistema
+.DS_Store
+Thumbs.db
+
+# Editor e impostazioni locali
+.vscode/
+.idea/
+.claude/
+
+# Python
+__pycache__/
+*.pyc
+
+# Vercel
+.vercel/
+
+# Variabili d'ambiente (non servono al sito, ma per sicurezza)
+.env
+.env.*
